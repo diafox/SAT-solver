@@ -5,6 +5,7 @@ letný semester 2021/22
 Neprocedurálne programovanie NPRG005
 -}
 
+
 import Data.Set (Set)
 import qualified Data.Set as Set
 -- tento package som použila pre šikovnejšie reprezentovanie množín Char-ov
